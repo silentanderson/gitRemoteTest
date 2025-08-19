@@ -5,3 +5,4 @@
 * git
 * gitHub
 * feature/cart 가 첫번째 파일을 수정함
+* feature/mypage 가 첫번째 파일을 수정함
