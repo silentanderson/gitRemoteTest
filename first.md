@@ -4,4 +4,4 @@
 > ## 1-1. 세부 항목
 * git
 * gitHub
-*  
+* feature/cart 가 첫번째 파일을 수정함
